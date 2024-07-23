@@ -1,10 +1,11 @@
-# MPDD
-Metal Parts Defect Detection Dataset
+# Metal Parts Defect Detection Dataset (MPDD)
+
+MPDD is a dataset aimed at benchmarking visual defect detection methods in industrial metal parts manufacturing. It consists of more than 1000 images with pixel-precise defect annotation masks. The dataset is divided into the training subset with anomaly-free samples and the validation subset that contains both normal and anomalous samples. The dataset can be downloaded at the following link.
 
 <a id="raw-url" href="https://vutbr-my.sharepoint.com/:f:/g/personal/xjezek16_vutbr_cz/EhHS_ufVigxDo3MC6Lweau0BVMuoCmhMZj6ddamiQ7-FnA?e=oHKCxI">Download link</a>
 
 ## Paper
-See the full paper at the <a id="raw-url" href="https://ieeexplore.ieee.org/abstract/document/9631567">following link</a>
+For more information about the dataset, see our paper at the <a id="raw-url" href="https://ieeexplore.ieee.org/abstract/document/9631567">following link</a>
 
 ![alt text](samples.png)
 
@@ -25,6 +26,8 @@ If you use the dataset in this repository, please cite
 ```
 
 ## Contant to authors
+For more information, please contact us by email.
+
 Stepan Jezek: <a href="mailto:Stepan.Jezek1@vut.cz">Stepan.Jezek1@vut.cz</a>
 Radim Burget: <a href="mailto:burgetrm@vutbr.cz">burgetrm@vut.cz</a>
 
